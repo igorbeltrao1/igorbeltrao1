@@ -1,5 +1,5 @@
 # Oii 👋
-- 👋 Hi, I’m Igor Beltrão 
+- 👋 Hello, I’m Igor Beltrão 
 - 👀 I’m interested in learn more every day
 - 🌱 I’m currently learning HTML, CSS, Javascript, NODE, React
 - 📫 How to reach me @igorbeltrao_
