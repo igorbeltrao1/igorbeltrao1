@@ -1,8 +1,8 @@
 # Oii 👋
-- 👋 Hi, I’m Igor Beltrão 
+- 👋 Hello, I’m Igor Beltrão 
 - 👀 I’m interested in learn more every day
-- 🌱 I’m currently learning HTML, CSS, Javascript, NODE, React
-- 📫 How to reach me @igorbeltrao_
+- 🌱 I’m currently learning HTML, CSS, Javascript, NODE, React.
+- 📫 How to reach me:  @igorbeltrao_
 
 <!---
 igorbeltrao1/igorbeltrao1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
