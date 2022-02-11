@@ -1,7 +1,7 @@
 # Oii 👋
 - 👋 Hello, I’m Igor Beltrão 
 - 👀 I’m interested in learn more every day
-- 🌱 I’m currently learning HTML, CSS, Javascript, NODE, React.
+- 🌱 I’m currently learning HTML, CSS, Javascript, NODE, React, SQL.
 - 📫 How to reach me  @igorbeltrao_.
 
 <!---
