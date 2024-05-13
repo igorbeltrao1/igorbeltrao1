@@ -3,7 +3,7 @@
 
 <p align="center">
 - 📜 I’m currently studying for to be a Software Engineer. <br>
-- 📖 I’m currently learning Java, Spring Boot, JavaScript, NodeJs and MySQL.
+- 📖 I’m currently learning Java, Spring Boot, JavaScript, NodeJs, MySQL e NoSQL.
 </p>
 
 
