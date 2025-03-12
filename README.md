@@ -2,7 +2,7 @@
 <h2 align="center">Hi, I'm Igor Beltrão 👋</h2>
 
 <p align="center">
-    I'm a passionate developer currently learning Java, Spring Boot, JavaScript, NodeJs, NextJS, MySQL, and NoSQL.
+    I'm a passionate developer currently learning Java, Spring Boot, JavaScript, Typescript, NodeJs, NextJS, MySQL, and NoSQL.
 </p>
 
 <p align="center">
@@ -38,4 +38,4 @@
 
 <!-- Contact -->
 <h2 align="center">Contact</h2>
-<p align="center">You can reach me at: [your-email@example.com]</p>
+<p align="center">You can reach me at: igorbeltrao96@gmail.com</p>
