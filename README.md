@@ -2,8 +2,7 @@
 <h2 align="center">Hi, I'm Igor Beltrão 👋</h2>
 
 <p align="center">
-- 📜 I’m currently studying for to be a Software Engineer. <br>
-- 📖 I’m currently learning Java, Spring Boot, JavaScript, NodeJs, MySQL e NoSQL, React e Angular.
+- 📖 I’m currently learning Java, Spring Boot, JavaScript, NodeJs, NextJS, MySQL e NoSQL, ReactJs.
 </p>
 
 
